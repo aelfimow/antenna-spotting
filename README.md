@@ -1,5 +1,7 @@
 # antenna-spotting
-A collection of antennas I was lucky to spot
+A collection of antennas I was lucky to spot.
+
+It is possibly interesting for all those, who have "antenna spotting" as a hobby.
 
 ## Antenna 1
 ![Antenna 1](images/ant-1.jpg)
