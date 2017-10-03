@@ -18,3 +18,6 @@ A collection of antennas I was lucky to spot
 
 ## Antenna 6
 ![Antenna 6](images/ant-6.jpg)
+
+## Antenna 7
+![Antenna 7](images/ant-7.jpg)
