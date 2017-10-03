@@ -35,3 +35,6 @@ It is possibly interesting for all those, who have "antenna spotting" as a hobby
 
 ## Antenna 11
 ![Antenna 11](images/ant-11.jpg)
+
+## Antenna 12
+![Antenna 12](images/ant-12.jpg)
