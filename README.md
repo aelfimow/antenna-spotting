@@ -15,3 +15,6 @@ A collection of antennas I was lucky to spot
 
 ## Antenna 5
 ![Antenna 5](images/ant-5.jpg)
+
+## Antenna 6
+![Antenna 6](images/ant-6.jpg)
